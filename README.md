@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritikraj26
 - 👀 I’m interested in web development and cloud computing.
-- 🌱 I’m currently pursuing BTech+Mtech from IIT Kharagpur.
+- 🌱 I’m currently pursuing BTech+MTech from IIT Kharagpur.
 - 💞️ I’m looking to collaborate on web development projects on django or react.
 - 📫 How to reach me ...+918239804690
 
