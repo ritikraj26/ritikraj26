@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @ritikraj26
-- 👀 I’m interested in web development and cloud computing.
-- 🌱 I’m currently pursuing BTech+MTech from IIT Kharagpur.
-- 💞️ I’m looking to collaborate on web development projects on django or angular.
+👋 Hi, I'm **Ritik Raj**  
+🎓 Final Year Undergraduate at **IIT Kharagpur**  
+🛠️ Contributing to [CVAT](https://github.com/openvinotoolkit/cvat)  
+📧 Reach out to me: **ritikraj2699@gmail.com**
 
-<!---
-ritikraj26/ritikraj26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 **Connect with me**:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikraj26/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__rj.26/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/__ritik_?t=Dlz-9c20yIPXpFNB_vbUAg&s=08)
+
+---
+
