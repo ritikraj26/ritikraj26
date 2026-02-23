@@ -1,5 +1,5 @@
 👋 Hi, I'm **Ritik Raj**  
-🎓 Final Year Undergraduate at **IIT Kharagpur**  
+🎓 **IIT Kharagpur** Graduate
 🛠️ Contributing to [CVAT](https://github.com/openvinotoolkit/cvat)  
 📧 Reach out to me: **ritikraj2699@gmail.com**
 
